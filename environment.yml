@@ -1,6 +1,6 @@
 name: SharedREDCAR
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - jupyterlab=1.2.6
   - numpy=1.18.1
